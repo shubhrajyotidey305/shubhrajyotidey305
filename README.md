@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhrajyotidey305" alt="shubhrajyotidey305" /></a> </p>
 
-- 🏫 I am currently in **my 3rd year pursuing my B.tech degree from Indian Institute of Technology (BHU), Varanasi.**
+- 🏫 I am currently in **my final year pursuing my B.tech degree from Indian Institute of Technology (BHU), Varanasi.**
 
-- 👀 I’m interested in **Software Development. I am a Competitve coder and developer with experience in building websites and mobile applications. Check out one of my works: https://shubhrajyoti-weather.herokuapp.com/**
+- 👀 I’m interested in **Software Development. C++, Python, and Dart are among the programming languages that I am familiar with. I am a regular competitive coder and developer. I mostly work on mobile apps with flutter, but I also know a bit about backend development with Django. As a flutter developer, I have completed two internships.**
 
-- 🌱 I’m currently working on **my Data Structures and Algorithims and CS core fundamentals. I have also knowledge of making cross platform applications using Flutter and web applications using Django.**
+- 🌱 I’m currently working on **my Data Structures and Algorithms and CS core fundamentals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
